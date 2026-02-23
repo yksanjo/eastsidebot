@@ -1,5 +1,12 @@
 # eastsidebot
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/eastsidebot/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/eastsidebot/actions)
+![License](https://img.shields.io/github/license/yksanjo/eastsidebot)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/eastsidebot)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/eastsidebot)
+
 ## Detailed Description
 
 eastsidebot is maintained as an industry-grade software project with production-ready engineering practices.  
